@@ -1,0 +1,15 @@
+fastapi==0.109.2
+uvicorn==0.27.1
+sqlalchemy==2.0.27
+psycopg2-binary==2.9.9
+pydantic[email]==2.6.1
+email-validator==2.1.0.post1
+passlib[bcrypt]==1.7.4
+python-dotenv==1.0.1
+alembic==1.13.1
+python-jose[cryptography]==3.3.0
+python-multipart==0.0.9
+google-genai>=1.0.0
+Pillow>=10.0.0
+requests>=2.31.0
+httpx<0.28

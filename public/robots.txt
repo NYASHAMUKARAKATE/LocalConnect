@@ -1,0 +1,9 @@
+# LocalConnect — robots.txt
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /ambassador
+Disallow: /shop-owner
+Disallow: /api/
+
+Sitemap: https://localconnect.co.zw/sitemap.xml

@@ -1,0 +1,148 @@
+{
+    "common": {
+        "appName": "LocalConnect",
+        "loading": "Kurodha...",
+        "error": "Pane chakaipa",
+        "retry": "Edza Zvakare",
+        "save": "Sevha",
+        "cancel": "Kanzura",
+        "delete": "Bvisa",
+        "edit": "Gadzirisa",
+        "close": "Vhara",
+        "search": "Tsvaga",
+        "back": "Dzoka",
+        "next": "Mberi",
+        "submit": "Tumira",
+        "confirm": "Simbisa",
+        "yes": "Hongu",
+        "no": "Kwete",
+        "ok": "Zvakanaka"
+    },
+    "nav": {
+        "home": "Kumba",
+        "marketplace": "Musika",
+        "assistant": "Mubatsiri weAI",
+        "dashboard": "Dashbhodhi",
+        "ambassador": "Nhume",
+        "admin": "Mutungamiriri",
+        "profile": "Profaira",
+        "orders": "Ma-Odha Angu",
+        "signIn": "Pinda",
+        "signOut": "Buda",
+        "credits": "Makiredhi"
+    },
+    "auth": {
+        "signIn": "Pinda",
+        "signUp": "Nyoresa",
+        "email": "Email Kero",
+        "password": "Password",
+        "name": "Zita Rake Rizere",
+        "phone": "Nhamba yeFoni",
+        "forgotPassword": "Wakanganwa Password?",
+        "noAccount": "Hausati wanyoresa?",
+        "hasAccount": "Unotova ne account?",
+        "loginSuccess": "Wadzoka zvakare!",
+        "registerSuccess": "Account yako yagadzirwa!",
+        "loginFailed": "Email kana password isiriyo",
+        "registerFailed": "Kunyoresa kwakundikana"
+    },
+    "marketplace": {
+        "title": "Musika",
+        "subtitle": "Tsvaga zvinhu kubva kuzvitoro zviri pedyo newe",
+        "searchPlaceholder": "Tsvaga zvinhu kana zvitoro...",
+        "filters": "Magadziriro",
+        "sortBy": "Ronga Ne",
+        "distance": "Nhambwe",
+        "price": "Mutengo",
+        "popular": "Zvinonyanya kudiwa",
+        "newest": "Zvitsva",
+        "addToCart": "Isa muKati",
+        "outOfStock": "Hapana Zvakasara",
+        "inStock": "Chiripo",
+        "categories": "Marudzi",
+        "allCategories": "Marudzi Ese",
+        "noProducts": "Hapana zvinhu zvawanikwa",
+        "loadMore": "Rodha Zvimwe"
+    },
+    "cart": {
+        "title": "Kati Yako",
+        "empty": "Kati yako haina chinhu",
+        "emptyMessage": "Enda kumusika uwedzere zvinhu",
+        "total": "Zvose",
+        "checkout": "Enda kuBhadhara",
+        "clear": "Bvisa Zvose",
+        "remove": "Bvisa",
+        "quantity": "Huwandu",
+        "navigate": "Enda",
+        "call": "Fonera"
+    },
+    "product": {
+        "details": "Ruzivo rweZvinhu",
+        "description": "Tsananguro",
+        "reviews": "Maonero",
+        "relatedProducts": "Unogona Kudiwa Izviwo",
+        "soldBy": "Inotengeswa na",
+        "stock": "zvinhu zvirimumba",
+        "rating": "Mako"
+    },
+    "orders": {
+        "title": "Nhoroondo yeMa-Odha",
+        "noOrders": "Hapana ma-odha",
+        "status": "Mamiriro",
+        "total": "Zvose",
+        "date": "Zuva",
+        "pending": "Inomirira",
+        "paid": "Yabhadharwa",
+        "processing": "Iri kugadzirwa",
+        "completed": "Yapera",
+        "cancelled": "Yakanzurwa",
+        "delivery": "Kutumira",
+        "pickup": "Kutora"
+    },
+    "shopOwner": {
+        "title": "Dashbhodhi yeChitoro",
+        "totalSales": "Kutengesa Kwose",
+        "totalOrders": "Ma-Odha Ose",
+        "activeProducts": "Zvinhu Zviripo",
+        "averageRating": "Mako ePakati",
+        "inventory": "Zvinhu Zvemumba",
+        "addProduct": "Wedzera Chinhu",
+        "salesAnalytics": "Ongororo Yekutengesa",
+        "recentOrders": "Ma-Odha Enyanya"
+    },
+    "ambassador": {
+        "title": "Padhi yeNhume",
+        "verifyShops": "Simbisa Zvitoro",
+        "pendingVerifications": "Zvinomirira Kusimbiswa",
+        "approved": "Zvabvumidzwa",
+        "rejected": "Zvarambwa",
+        "verify": "Simbisa",
+        "communityScore": "Mako eNharaunda"
+    },
+    "admin": {
+        "title": "Dashbhodhi yeMutungamiriri",
+        "totalUsers": "Vashandisi Vose",
+        "totalShops": "Zvitoro Zvose",
+        "totalTransactions": "Matengeserano Ose",
+        "platformRevenue": "Mari yePlatform",
+        "demandHeatmap": "Mepu yeZvinodiwa",
+        "userAnalytics": "Ongororo yeVashandisi"
+    },
+    "location": {
+        "selectLocation": "Sarudza Nzvimbo Yako",
+        "detecting": "Tiri kutsvaga nzvimbo yako...",
+        "nearby": "Pedyo",
+        "changeLocation": "Chinja Nzvimbo"
+    },
+    "notifications": {
+        "title": "Zviziviso",
+        "noNotifications": "Hapana zviziviso zvitsva",
+        "markAllRead": "Ita Zvose Sezvavhurwa",
+        "orderUpdate": "Ruzivo rweOdha",
+        "newProduct": "Chinhu Chitsva Chiripo"
+    },
+    "footer": {
+        "tagline": "Kubatanidza nharaunda kuburikidza nezvokutengeserana",
+        "builtWith": "Yakavakwa ne ❤️ muZimbabwe"
+    }
+}

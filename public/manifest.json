@@ -1,0 +1,86 @@
+{
+    "name": "LocalConnect",
+    "short_name": "LocalConnect",
+    "description": "Community commerce platform connecting residents with local shops",
+    "start_url": "/marketplace",
+    "display": "standalone",
+    "background_color": "#F8FAFC",
+    "theme_color": "#1E40AF",
+    "orientation": "portrait-primary",
+    "scope": "/",
+    "categories": [
+        "shopping",
+        "business",
+        "lifestyle"
+    ],
+    "lang": "en",
+    "icons": [
+        {
+            "src": "/icons/icon-72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icon-96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icon-128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icon-144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "/screenshots/marketplace.png",
+            "sizes": "1280x720",
+            "type": "image/png",
+            "form_factor": "wide",
+            "label": "Browse local products"
+        }
+    ],
+    "shortcuts": [
+        {
+            "name": "Marketplace",
+            "short_name": "Shop",
+            "description": "Browse local products",
+            "url": "/marketplace",
+            "icons": [
+                {
+                    "src": "/icons/icon-96.png",
+                    "sizes": "96x96"
+                }
+            ]
+        },
+        {
+            "name": "My Orders",
+            "short_name": "Orders",
+            "description": "View your order history",
+            "url": "/orders",
+            "icons": [
+                {
+                    "src": "/icons/icon-96.png",
+                    "sizes": "96x96"
+                }
+            ]
+        }
+    ]
+}

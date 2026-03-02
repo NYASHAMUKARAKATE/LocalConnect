@@ -1,0 +1,148 @@
+{
+    "common": {
+        "appName": "LocalConnect",
+        "loading": "Kuyalayala...",
+        "error": "Kulento okungaqondanga",
+        "retry": "Zama Futhi",
+        "save": "Gcina",
+        "cancel": "Khansela",
+        "delete": "Susa",
+        "edit": "Hlela",
+        "close": "Vala",
+        "search": "Sesha",
+        "back": "Emuva",
+        "next": "Okulandelayo",
+        "submit": "Thumela",
+        "confirm": "Qinisekisa",
+        "yes": "Yebo",
+        "no": "Hatshi",
+        "ok": "Kulungile"
+    },
+    "nav": {
+        "home": "Ekhaya",
+        "marketplace": "Imakethe",
+        "assistant": "Umsizi we-AI",
+        "dashboard": "Idashbhodi",
+        "ambassador": "Ummeli",
+        "admin": "Umphathi",
+        "profile": "Iphrofayili",
+        "orders": "Ama-Odha Ami",
+        "signIn": "Ngena",
+        "signOut": "Phuma",
+        "credits": "Amakhredithi"
+    },
+    "auth": {
+        "signIn": "Ngena",
+        "signUp": "Bhalisa",
+        "email": "Ikheli le-Imeyili",
+        "password": "Iphasiwedi",
+        "name": "Ibizo Eligcweleyo",
+        "phone": "Inombolo Yocingo",
+        "forgotPassword": "Ukhohlwe Iphasiwedi?",
+        "noAccount": "Awukabi le-akhawunti?",
+        "hasAccount": "Usulayo i-akhawunti?",
+        "loginSuccess": "Ubuyile futhi!",
+        "registerSuccess": "I-akhawunti yakho yenziwe!",
+        "loginFailed": "I-imeyili kumbe iphasiwedi ayiqondanga",
+        "registerFailed": "Ukubhalisa kuhlulekile"
+    },
+    "marketplace": {
+        "title": "Imakethe",
+        "subtitle": "Thola izinto ezivela ezitolo eziseduze lawe",
+        "searchPlaceholder": "Sesha izinto kumbe izitolo...",
+        "filters": "Izihlungi",
+        "sortBy": "Hlela Nge",
+        "distance": "Ibanga",
+        "price": "Intengo",
+        "popular": "Ezithandwayo",
+        "newest": "Ezintsha",
+        "addToCart": "Faka Ekhalini",
+        "outOfStock": "Akuselanto",
+        "inStock": "Kukhona",
+        "categories": "Izigaba",
+        "allCategories": "Zonke Izigaba",
+        "noProducts": "Akulanto okutholakeleyo",
+        "loadMore": "Layisha Okunye"
+    },
+    "cart": {
+        "title": "Ikhali Yakho",
+        "empty": "Ikhali yakho ayilanto",
+        "emptyMessage": "Yana emaketheni ufake izinto",
+        "total": "Sekukonke",
+        "checkout": "Yana Ekubhadaleni",
+        "clear": "Susa Konke",
+        "remove": "Susa",
+        "quantity": "Inani",
+        "navigate": "Hamba",
+        "call": "Tshayela"
+    },
+    "product": {
+        "details": "Imininingwane Yomkhiqizo",
+        "description": "Incazelo",
+        "reviews": "Ukuhlolwa",
+        "relatedProducts": "Ungathanda Lalokhu",
+        "soldBy": "Kuthengiswa ngu",
+        "stock": "izinto ezikhona",
+        "rating": "Amamaki"
+    },
+    "orders": {
+        "title": "Imbali Yama-Odha",
+        "noOrders": "Akulama-odha",
+        "status": "Isimo",
+        "total": "Sekukonke",
+        "date": "Usuku",
+        "pending": "Iyalinda",
+        "paid": "Ibhadalwe",
+        "processing": "Iyenziwa",
+        "completed": "Iqediwe",
+        "cancelled": "Ikhanselwe",
+        "delivery": "Ukuthumela",
+        "pickup": "Ukuthatha"
+    },
+    "shopOwner": {
+        "title": "Idashbhodi Yesitolo",
+        "totalSales": "Ukuthengisa Konke",
+        "totalOrders": "Ama-Odha Onke",
+        "activeProducts": "Izinto Ezikhona",
+        "averageRating": "Amamaki Aphakathi",
+        "inventory": "Isitoko",
+        "addProduct": "Engeza Into",
+        "salesAnalytics": "Ukuhlaziya Ukuthengisa",
+        "recentOrders": "Ama-Odha Amuva"
+    },
+    "ambassador": {
+        "title": "Iphothali Yommeli",
+        "verifyShops": "Qinisekisa Izitolo",
+        "pendingVerifications": "Ezilindele Ukuqinisekiswa",
+        "approved": "Kuvunyiwe",
+        "rejected": "Kwalwe",
+        "verify": "Qinisekisa",
+        "communityScore": "Amamaki Omphakathi"
+    },
+    "admin": {
+        "title": "Idashbhodi Yomphathi",
+        "totalUsers": "Bonke Abasebenzisi",
+        "totalShops": "Zonke Izitolo",
+        "totalTransactions": "Konke Ukuthenga",
+        "platformRevenue": "Imali Yephlatfomu",
+        "demandHeatmap": "Imephu Yokufunwa",
+        "userAnalytics": "Ukuhlaziya Abasebenzisi"
+    },
+    "location": {
+        "selectLocation": "Khetha Indawo Yakho",
+        "detecting": "Sithola indawo yakho...",
+        "nearby": "Eduze",
+        "changeLocation": "Guqula Indawo"
+    },
+    "notifications": {
+        "title": "Izaziso",
+        "noNotifications": "Akulazaziso ezintsha",
+        "markAllRead": "Phawula Konke Njengokufundiweyo",
+        "orderUpdate": "Ukuvuselelwa kwe-Odha",
+        "newProduct": "Into Entsha Ikhona"
+    },
+    "footer": {
+        "tagline": "Kuhlanganisa imiphakathi ngokuthengiselana",
+        "builtWith": "Kwakhiwe nge ❤️ eZimbabwe"
+    }
+}

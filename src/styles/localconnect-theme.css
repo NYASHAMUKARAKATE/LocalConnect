@@ -1,0 +1,57 @@
+/* LocalConnect Custom Theme Variables */
+:root {
+  /* Brand Colors */
+  --lc-primary: #1E40AF; /* Deep Trust Blue */
+  --lc-primary-dark: #1e3a8a;
+  --lc-primary-light: #3b82f6;
+  --lc-secondary: #065F46; /* Emerald Green */
+  --lc-secondary-dark: #064e3b;
+  --lc-secondary-light: #059669;
+  
+  /* UI Colors */
+  --lc-background: #F8FAFC;
+  --lc-surface: #FFFFFF;
+  --lc-text-primary: #0F172A;
+  --lc-text-secondary: #64748B;
+  --lc-border: #E2E8F0;
+  
+  /* Status Colors */
+  --lc-success: #10B981;
+  --lc-warning: #F59E0B;
+  --lc-error: #EF4444;
+  
+  /* Glassmorphism */
+  --lc-glass-bg: rgba(255, 255, 255, 0.7);
+  --lc-glass-border: rgba(255, 255, 255, 0.18);
+  
+  /* Border Radius */
+  --lc-radius-xl: 40px;
+  --lc-radius-lg: 32px;
+  --lc-radius-md: 24px;
+  --lc-radius-sm: 16px;
+}
+
+/* Glassmorphism Utility */
+.glass-morphism {
+  background: var(--lc-glass-bg);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid var(--lc-glass-border);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.1);
+}
+
+/* Custom Animations */
+@keyframes pulse-dot {
+  0%, 100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.1);
+    opacity: 0.8;
+  }
+}
+
+.pulse-dot {
+  animation: pulse-dot 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}

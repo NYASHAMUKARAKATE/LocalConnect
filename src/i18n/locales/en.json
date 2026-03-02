@@ -1,0 +1,148 @@
+{
+    "common": {
+        "appName": "LocalConnect",
+        "loading": "Loading...",
+        "error": "Something went wrong",
+        "retry": "Try Again",
+        "save": "Save",
+        "cancel": "Cancel",
+        "delete": "Delete",
+        "edit": "Edit",
+        "close": "Close",
+        "search": "Search",
+        "back": "Back",
+        "next": "Next",
+        "submit": "Submit",
+        "confirm": "Confirm",
+        "yes": "Yes",
+        "no": "No",
+        "ok": "OK"
+    },
+    "nav": {
+        "home": "Home",
+        "marketplace": "Marketplace",
+        "assistant": "AI Assistant",
+        "dashboard": "Dashboard",
+        "ambassador": "Ambassador",
+        "admin": "Admin",
+        "profile": "Profile",
+        "orders": "My Orders",
+        "signIn": "Sign In",
+        "signOut": "Sign Out",
+        "credits": "Credits"
+    },
+    "auth": {
+        "signIn": "Sign In",
+        "signUp": "Sign Up",
+        "email": "Email Address",
+        "password": "Password",
+        "name": "Full Name",
+        "phone": "Phone Number",
+        "forgotPassword": "Forgot Password?",
+        "noAccount": "Don't have an account?",
+        "hasAccount": "Already have an account?",
+        "loginSuccess": "Welcome back!",
+        "registerSuccess": "Account created successfully!",
+        "loginFailed": "Invalid email or password",
+        "registerFailed": "Registration failed"
+    },
+    "marketplace": {
+        "title": "Marketplace",
+        "subtitle": "Discover products from local shops near you",
+        "searchPlaceholder": "Search products or shops...",
+        "filters": "Filters",
+        "sortBy": "Sort By",
+        "distance": "Distance",
+        "price": "Price",
+        "popular": "Popular",
+        "newest": "Newest",
+        "addToCart": "Add to Cart",
+        "outOfStock": "Out of Stock",
+        "inStock": "In Stock",
+        "categories": "Categories",
+        "allCategories": "All Categories",
+        "noProducts": "No products found",
+        "loadMore": "Load More"
+    },
+    "cart": {
+        "title": "Your Cart",
+        "empty": "Your cart is empty",
+        "emptyMessage": "Browse the marketplace to add items",
+        "total": "Total",
+        "checkout": "Proceed to Checkout",
+        "clear": "Clear Cart",
+        "remove": "Remove",
+        "quantity": "Quantity",
+        "navigate": "Navigate",
+        "call": "Call"
+    },
+    "product": {
+        "details": "Product Details",
+        "description": "Description",
+        "reviews": "Reviews",
+        "relatedProducts": "You May Also Like",
+        "soldBy": "Sold by",
+        "stock": "items in stock",
+        "rating": "Rating"
+    },
+    "orders": {
+        "title": "Order History",
+        "noOrders": "No orders yet",
+        "status": "Status",
+        "total": "Total",
+        "date": "Date",
+        "pending": "Pending",
+        "paid": "Paid",
+        "processing": "Processing",
+        "completed": "Completed",
+        "cancelled": "Cancelled",
+        "delivery": "Delivery",
+        "pickup": "Pickup"
+    },
+    "shopOwner": {
+        "title": "Shop Dashboard",
+        "totalSales": "Total Sales",
+        "totalOrders": "Total Orders",
+        "activeProducts": "Active Products",
+        "averageRating": "Average Rating",
+        "inventory": "Inventory",
+        "addProduct": "Add Product",
+        "salesAnalytics": "Sales Analytics",
+        "recentOrders": "Recent Orders"
+    },
+    "ambassador": {
+        "title": "Ambassador Portal",
+        "verifyShops": "Verify Shops",
+        "pendingVerifications": "Pending Verifications",
+        "approved": "Approved",
+        "rejected": "Rejected",
+        "verify": "Verify",
+        "communityScore": "Community Score"
+    },
+    "admin": {
+        "title": "Admin Dashboard",
+        "totalUsers": "Total Users",
+        "totalShops": "Total Shops",
+        "totalTransactions": "Total Transactions",
+        "platformRevenue": "Platform Revenue",
+        "demandHeatmap": "Demand Heatmap",
+        "userAnalytics": "User Analytics"
+    },
+    "location": {
+        "selectLocation": "Select Your Location",
+        "detecting": "Detecting your location...",
+        "nearby": "Nearby",
+        "changeLocation": "Change Location"
+    },
+    "notifications": {
+        "title": "Notifications",
+        "noNotifications": "No new notifications",
+        "markAllRead": "Mark All Read",
+        "orderUpdate": "Order Update",
+        "newProduct": "New Product Available"
+    },
+    "footer": {
+        "tagline": "Connecting communities through local commerce",
+        "builtWith": "Built with ❤️ in Zimbabwe"
+    }
+}
