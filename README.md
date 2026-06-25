@@ -2,7 +2,7 @@
 
 LocalConnect is a community commerce platform connecting residents with local shops, facilitated by ambassadors.
 
-## 🚀 Getting Started
+## Getting Started
 
 The project consists of a **FastAPI backend** and a **React/Vite frontend**.
 
@@ -40,7 +40,7 @@ Backend will be at: `http://localhost:8000`
    ```
 Frontend will be at: `http://localhost:5173`
 
-## 🔑 Test Accounts
+##  Test Accounts
 Use these credentials to test different user flows:
 
 | Role | Email | Password |
